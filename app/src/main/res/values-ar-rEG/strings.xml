@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ذكريات</string>
+    <string name="enter_address">ادخل العنوان</string>
+    <string name="enter_text">ادخل الموضوع</string>
+    <string name="update">تعديل</string>
+    <string name="sharing">مشاركة</string>
+    <string name="Delete">حذف</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="new_pass">جديد</string>
+    <string name="enter_your_password">ادخل كلمة السر</string>
+    <string name="change_password">تغيير كلمة السر</string>
+    <string name="entercurrentpassword">كلمة السر الحالية</string>
+    <string name="enternewpassword">كلمة السر الجديدة</string>
+    <string name="change">تغيير</string>
+    <string name="ok">تم</string>
+    <string name="current">الحالي</string>
+</resources>

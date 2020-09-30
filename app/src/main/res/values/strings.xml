@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Memories</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="update">Update</string>
+    <string name="sharing">Sharing</string>
+    <string name="Delete">Delete</string>
+    <string name="login">Login</string>
+    <string name="new_pass">New</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="change_password">Change Your password</string>
+    <string name="entercurrentpassword">Current Password</string>
+    <string name="enternewpassword">New Password</string>
+    <string name="change">Change</string>
+    <string name="ok">OK</string>
+    <string name="current">Current</string>
+
+</resources>
